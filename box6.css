@@ -1,0 +1,303 @@
+.main1 {
+    width: 1100px;
+    margin: 40px auto 40px auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.main {
+    width: 248px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    border-radius: 4px;
+    padding-top: 12px;
+    font-weight: bold;
+    position: absolute;
+    left: 500px;
+    top: 1px;
+}
+
+
+.h1 {
+    position: absolute;
+    left: 270px;
+    top: 120px;
+}
+
+.h2 {
+    position: absolute;
+    left: 475px;
+    top: 120px;
+}
+
+.h3 {
+    position: absolute;
+    left: 675px;
+    top: 120px;
+}
+
+.h4 {
+    position: absolute;
+    left: 875px;
+    top: 120px;
+}
+
+.h5 {
+    position: absolute;
+    left: 1075px;
+    top: 120px;
+}
+
+.h6 {
+    position: absolute;
+    left: 270px;
+    top: 220px;
+}
+
+.h7 {
+    position: absolute;
+    left: 475px;
+    top: 220px;
+}
+
+.h8 {
+    position: absolute;
+    left: 675px;
+    top: 220px;
+}
+
+.h9 {
+    position: absolute;
+    left: 875px;
+    top: 220px;
+}
+
+.h10 {
+    position: absolute;
+    left: 1075px;
+    top: 220px;
+}
+
+.h11 {
+    position: absolute;
+    left: 270px;
+    top: 320px;
+}
+
+.h12 {
+    position: absolute;
+    left: 475px;
+    top: 320px;
+}
+
+.h13 {
+    position: absolute;
+    left: 675px;
+    top: 320px;
+}
+
+.h14 {
+    position: absolute;
+    left: 875px;
+    top: 320px;
+}
+
+.h15 {
+    position: absolute;
+    left: 1075px;
+    top: 320px;
+}
+
+.h16 {
+    position: absolute;
+    left: 270px;
+    top: 420px;
+}
+
+.h17 {
+    position: absolute;
+    left: 475px;
+    top: 420px;
+}
+
+.h18 {
+    position: absolute;
+    left: 675px;
+    top: 420px;
+}
+
+.h19 {
+    position: absolute;
+    left: 875px;
+    top: 420px;
+}
+
+.h20 {
+    position: absolute;
+    left: 1075px;
+    top: 420px;
+}
+
+.A {
+    width: 200px;
+    height: 100px;
+    background-color: #fad390;
+    border: 1px solid #fad390;
+
+}
+
+.B {
+    width: 200px;
+    height: 100px;
+    background-color: #f8c291;
+    border: 1px solid #f8c291;
+
+}
+
+.C {
+    width: 200px;
+    height: 100px;
+    background-color: #6a89cc;
+    border: 1px solid #6a89cc;
+
+}
+
+.D {
+    width: 200px;
+    height: 100px;
+    background-color: #82ccdd;
+    border: 1px solid #82ccdd;
+}
+
+.E {
+    width: 200px;
+    height: 100px;
+    background-color: #b8e994;
+    border: 1px solid #b8e994;
+}
+
+.F {
+    width: 200px;
+    height: 100px;
+    background-color: #f6b93b;
+    border: 1px solid #f6b93b;
+}
+
+.G {
+    width: 200px;
+    height: 100px;
+    background-color: #e55039;
+    border: 1px solid #e55039;
+}
+
+.H {
+    width: 200px;
+    height: 100px;
+    background-color: #4a69bd;
+    border: 1px solid #4a69bd;
+}
+
+.I {
+    width: 200px;
+    height: 100px;
+    background-color: #60a3bc;
+    border: 1px solid #60a3bc;
+}
+
+.J {
+    width: 200px;
+    height: 100px;
+    background-color: #78e08f;
+    border: 1px solid #78e08f;
+}
+
+.K {
+    width: 200px;
+    height: 100px;
+    background-color: #fa983a;
+    border: 1px solid #fa983a;
+}
+
+.L {
+    width: 200px;
+    height: 100px;
+    background-color: #eb2f06;
+    border: 1px solid #eb2f06;
+}
+
+.M {
+    width: 200px;
+    height: 100px;
+    background-color: #1e3799;
+    border: 1px solid #1e3799;
+}
+
+.N {
+    width: 200px;
+    height: 100px;
+    background-color: #3c6382;
+    border: 1px solid #3c6382;
+}
+
+.O {
+    width: 200px;
+    height: 100px;
+    background-color: #38ada9;
+    border: 1px solid #38ada9;
+}
+
+.P {
+    width: 200px;
+    height: 100px;
+    background-color: #e58e26;
+    border: 1px solid #e58e26;
+}
+
+.Q {
+    width: 200px;
+    height: 100px;
+    background-color: #b71540;
+    border: 1px solid #b71540;
+}
+
+.R {
+    width: 200px;
+    height: 100px;
+    background-color: #0c2461;
+    border: 1px solid #0c2461;
+}
+
+.S {
+    width: 200px;
+    height: 100px;
+    background-color: #0a3d62;
+    border: 1px solid #0a3d62;
+}
+
+.T {
+    width: 200px;
+    height: 100px;
+    background-color: #079992;
+    border: 1px solid #079992;
+}
+
+a {
+    text-decoration: none;
+    border: 1px solid #dcdcdc;
+    width: 80px;
+    height: 18px;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    position: absolute;
+    left: 130px;
+    top: 10px;
+    padding-left: 20px;
+
+
+
+
+}
